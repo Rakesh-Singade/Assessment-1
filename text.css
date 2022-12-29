@@ -1,0 +1,47 @@
+.head{
+ color:rgb(red, green, blue);  
+ font-size: 27px; 
+}
+.bg{
+    background-color: black;
+    height: 25px;
+}
+.para{
+font-size: 20px;
+color:white;
+
+}
+.bg2{
+    background-color:grey;
+    height: 300%;
+    padding-top: 10px;
+    
+}
+.image{
+    height: 100px;
+    width: 100px;
+}
+.para2{
+  font-size: 21px;
+  color: black;
+  text-align: center;
+
+}
+.image{
+    height: 600px;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.header{
+    list-style-type: none;
+display:flex;
+     margin: 0px;
+    background-color: blanchedalmond;
+    font-size: 18px;
+    color: rgb(red, green, blue);
+}
+.list{
+    padding: 8px;
+}
